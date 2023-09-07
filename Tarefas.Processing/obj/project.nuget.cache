@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVE6E2h+PlzDf1kmqJf9YhMTvr+6dlea4nhQcyqcPCwbLy8b6XhB24wrf8sWWqHDsC1Y3AnMJ9B9y5vcGbcATQ==",
+  "success": true,
+  "projectFilePath": "/home/clam/projects/Langs/Dotnet/Project-tarefas-aspnetcore/Tarefas.Processing/Tarefas.Processing.csproj",
+  "expectedPackageFiles": [
+    "/home/clam/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/home/clam/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/clam/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
